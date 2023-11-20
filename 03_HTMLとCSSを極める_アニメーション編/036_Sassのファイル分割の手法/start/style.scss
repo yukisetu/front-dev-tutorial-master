@@ -1,0 +1,5 @@
+@use "child";
+
+hi {
+    color: child.$cBlue;
+}
